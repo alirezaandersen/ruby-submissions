@@ -7,7 +7,7 @@
   Repo: 
 
 ### Alireza Andersen
-  Repo: 
+  Repo: https://github.com/alirezaandersen/module_3_diagnostic
 
 ### Andrew Thompson
   Repo: 
